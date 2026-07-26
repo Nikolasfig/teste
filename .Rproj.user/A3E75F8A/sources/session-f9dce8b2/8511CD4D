@@ -3,7 +3,7 @@
     "path": "~/teste/hugo.toml",
     "project_path": "hugo.toml",
     "type": "toml",
-    "hash": "0",
+    "hash": "1746451767",
     "contents": "",
     "dirty": false,
     "created": 1785036176944.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "30,11",
-        "scrollLine": "20"
+        "cursorPosition": "5,19",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1785036669,
+    "lastKnownWriteTime": 1785038604,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1785036669901,
+    "last_content_update": 1785038604347,
     "read_only": false,
     "read_only_alternatives": []
 }

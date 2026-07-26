@@ -3,6 +3,7 @@ languageCode = "pt-br"
 title = "Nikolas N. Figueiredo"
 theme = "PaperMod"
 enableRobotsTXT = true
+publishDir = "docs"
 
 [params]
 defaultTheme = "auto"
