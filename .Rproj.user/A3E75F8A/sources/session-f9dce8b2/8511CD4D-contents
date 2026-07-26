@@ -1,0 +1,43 @@
+baseURL = "https://Nikolasfig.github.io/teste/"
+languageCode = "pt-br"
+title = "Nikolas N. Figueiredo"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowCodeCopyButtons = true
+ShowShareButtons = true
+ShowBreadCrumbs = true
+ShowWordCount = true
+
+[params.homeInfoParams]
+Title = "Nikolas N. Figueiredo"
+Content = """
+Estatístico • Cientista de Dados • Docente
+"""
+
+[[menu.main]]
+identifier = "projetos"
+name = "Projetos"
+url = "/projetos/"
+weight = 10
+
+[[menu.main]]
+identifier = "publicacoes"
+name = "Publicações"
+url = "/publicacoes/"
+weight = 20
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/posts/"
+weight = 30
+
+[[menu.main]]
+identifier = "sobre"
+name = "Sobre"
+url = "/sobre/"
+weight = 40
