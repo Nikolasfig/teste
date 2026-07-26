@@ -1,0 +1,7 @@
+# Evita que o Git normalize as quebras de linha (CRLF/LF) dos arquivos
+# já gerados pelo Hugo em docs/. Isso é essencial porque o CSS carrega
+# um hash de integridade (SRI) calculado em cima dos bytes exatos do
+# build — se o Git converter as quebras de linha ao commitar/dar push,
+# o hash deixa de bater e o navegador bloqueia o carregamento do CSS,
+# fazendo a página aparecer sem o tema aplicado.
+docs/** -text
